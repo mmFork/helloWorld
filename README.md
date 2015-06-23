@@ -12,4 +12,5 @@ _3rd commit_
 
 test to create a new pull request based on a different branch with the maintainer
 
-test to create a new PR. that will be append new commit sooner
+test to create a new PR. that will be append new commit sooner  
+this is the second commit based on the last commit
